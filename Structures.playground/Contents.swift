@@ -42,6 +42,7 @@ instanceTwo.fullName
 
 //instanceTwo.firstName = "sd,fhdksgb" it will throw an error because it is an immutable struct
 
+
 // mutable struct which means the struct class can dynamically change the properties
 struct  Car {
     var speed: Int
