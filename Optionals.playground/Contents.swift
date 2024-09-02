@@ -3,7 +3,7 @@ import Foundation
 
 func multiplyByTwo(_ value: Int? = nil) -> Int {
     if let value {
-        return value * 2
+        return value * 2    
     }
     else {
         return 0
