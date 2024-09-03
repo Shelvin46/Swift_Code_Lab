@@ -1,7 +1,5 @@
 import Foundation
 
-    
-    
     struct Person {
         let firstName: String?
         let lastName: String?
@@ -105,7 +103,7 @@ import Foundation
             do {
                 try running()
             } catch {
-                print(error)
+                print(error)	
             }
             
         }
